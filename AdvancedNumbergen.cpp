@@ -1,3 +1,4 @@
+//Author Alex leonard
 #include <ctime>
 #include <cstdlib>
 #include <iostream>
